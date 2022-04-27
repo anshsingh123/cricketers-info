@@ -1,6 +1,6 @@
-# CricketersInfo: https://cricketerinfo.netlify.app/index.html
+# CricketersInfo: https://cricketer-info.netlify.app/
 About Me:
-Hello I Am Vikas Kumar UnderGraduate At N.I.T RAIPUR Pursuing Electrical Engineering I Love To Play And Watch Cricket And You May Know My Favourite Cricketer Till Now That Is King Kohli As Obvious
+Hello I Am Ansh Singh . I Love To Play And Watch Cricket And You May Know My Favourite Cricketer Till Now That Is King Kohli As Obvious
 Inspiration For Making This Website:
 I Used To Wonder That There Should Be A Website Which In Seconds Gives You Everything Related To A Particular Cricketer So That Is My Inspiration, And I am Glad That I am Able To Develop It.
 What This Website Do?
