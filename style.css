@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap')
+#btn {
+  background-color: rgb(0, 255, 255);
+  text-decoration: none;
+  color: rgb(231, 175, 20);
+  border: 2px solid black;
+  border-radius: 3px;
+  padding: 3px 30px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+#cricketername {
+  font-family: Raleway, sans-serif;
+  background-color: rgba(20, 177, 250, 0.404);
+  border-radius: 3px;
+  text-align: center;
+  padding: 3px 30px;
+  border: 2px solid black;
+}
+.font {
+  font-family: "Raleway", sans-serif;
+}
