@@ -1,4 +1,5 @@
 # CricketersInfo: https://cricketer-info.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ff1b897-13f5-4b0a-a139-c50d79f5e93b/deploy-status)](https://app.netlify.com/sites/cricketer-info/deploys)
 About Me:
 Hello I Am Ansh Singh . I Love To Play And Watch Cricket And You May Know My Favourite Cricketer Till Now That Is King Kohli As Obvious
 Inspiration For Making This Website:
